@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Current File (venv)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "streamlit_app.py",
+      "console": "integratedTerminal",
+      "cwd": "/Users/antonyyang/ai_fitness_llm/",
+      "env": {
+        "PYTHONPATH": "/Users/antonyyang/ai_fitness_llm/venv/bin/python3.12"
+      }
+    }
+  ]
+}
